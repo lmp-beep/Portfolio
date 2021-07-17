@@ -19,3 +19,4 @@ Deployed Site => https://lmp-beep.github.io/ReactPortfolio/
 >* Add splash page
 >* Add each portfolio page
 >* Add photo of me to about page
+# Portfolio
